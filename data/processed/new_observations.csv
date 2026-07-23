@@ -1,0 +1,2 @@
+record_type,pillar,indicator,indicator_code,value_numeric,observation_date,source_name,source_url,confidence,original_text,collected_by,collection_date,notes
+observation,access,Mobile money account ownership,MOBILE_MONEY_ACCESS,46,2023-01-01,World Bank Global Findex,https://www.worldbank.org/,high,Percentage of adults with mobile money accounts,Your Name,2026-07-21,Useful for forecasting digital financial inclusion adoption
